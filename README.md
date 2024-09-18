@@ -2,7 +2,9 @@
 
 **Note:** Work in Progress. Updating the list to since when I joined AI4Bharat. Crawling slack messages is not as easy as I thought it was 😅.
 
-This is a list of papers that have been covered in the TTSteam's Paper Reading Group at AI4Bharat. The group meets weekly to discuss and present research papers related to Text-to-Speech (TTS) and other generative Speech technologies. The papers covered in the group are from various sources, including academic publications, research institutions, and tech companies. The list below includes the name of the paper and a link to the paper. A brief summary or notes from the discussion are also may come in the future.
+This is a list of papers that have been covered in the TTSteam's Paper Reading Group at AI4Bharat. The group meets weekly to discuss and present research papers related to Text-to-Speech (TTS) and other generative Speech technologies. The papers covered in the group are from various sources, including academic publications, research institutions, and tech companies. The list below includes the name of the paper and a link to the paper. 
+
+A brief summary or notes from the discussion may come in the future.
 
 | Name | Link |
 |---|---|
